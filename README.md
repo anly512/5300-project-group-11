@@ -4,7 +4,7 @@
 This project involves a statistical analysis of transactional data from a UK-based online retail store aimed at enhancing customer-centric business intelligence. The primary focus is on customer segmentation using various data mining techniques to identify key customer groups and their characteristics, which can be leveraged to optimize marketing strategies.
 
 ## Data Source
-The analysis is conducted on a dataset obtained from an online retailer in the UK. The dataset includes transactional data with attributes such as recency, frequency, and monetary value of purchases.
+The analysis is conducted on [https://archive.ics.uci.edu/dataset/352/online+retail](https://archive.ics.uci.edu/dataset/352/online+retail). The dataset includes transactional data with attributes such as recency, frequency, and monetary value of purchases.
 
 ## Methodology
 
